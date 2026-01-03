@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.7",
+  "versionId": "1.0.7 flavored",
   "name": "ComBEECraft Client",
   "summary": "",
   "files": [
@@ -2961,6 +2961,21 @@
       "fileSize": 9309183
     },
     {
+      "path": "mods/halohud-neoforge-5.0+1.21.1.jar",
+      "hashes": {
+        "sha512": "d0b26ccb2396e9fc20a7109fe3cf858099e1f8447a78f5789b7d43d1ab7fbd5e689f8001a31b4687117602eaa2f2442537313397ef3ea6fe6814a20cea9741df",
+        "sha1": "132994eaaf770a62d478f5cd41da32f014939f1f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rbMt0AmF/versions/R00pxIXg/halohud-neoforge-5.0%2B1.21.1.jar"
+      ],
+      "fileSize": 262689
+    },
+    {
       "path": "mods/ibo-3.1.0-neoforge-1.21.jar",
       "hashes": {
         "sha512": "f1bb92da048ff14f0add99a9e393bdac000b2eb0a6cebe8ef6876d4bf00fcb55320d6067fbda12c6dcae790c337c9c461717ef13bfb0bb46c242b6222187a4f7",
@@ -3034,21 +3049,6 @@
         "https://cdn.modrinth.com/data/yPlaLxD1/versions/WZ25JeYB/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
       ],
       "fileSize": 576866
-    },
-    {
-      "path": "mods/irons_spellbooks-1.21.1-3.14.8.jar",
-      "hashes": {
-        "sha512": "7ed9891680413913e22179a9b7e707271e97453bc4d2a23bc7a6c6da2d6572eb611b3f73e2c2ccb44326cc857335e2546c2313f6b4f41b18815ae9cc63d13f3d",
-        "sha1": "9f3c9ec0ab3d1caed39010eaaf32c46d16901952"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/s4OWxYQQ/versions/4GN2MStD/irons_spellbooks-1.21.1-3.14.8.jar"
-      ],
-      "fileSize": 12529766
     },
     {
       "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
@@ -3544,6 +3544,21 @@
         "https://cdn.modrinth.com/data/NmYBBHLU/versions/HuwaLK5C/morerelics-1.6.1-1.21.1.jar"
       ],
       "fileSize": 562089
+    },
+    {
+      "path": "mods/neocompass-1.0.jar",
+      "hashes": {
+        "sha512": "4f96a6818387c94ff32e2d96d098d352d7e55056669b1d38c33e6f99200e16c5b28b3c351f0bbfc32bfcfb5ee6f1eb81502710d4e9e9770fed7958f0fbc043b2",
+        "sha1": "b5b820da324a1e970d4f988698b5d82dc4d84e15"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GIxhqGWR/versions/IZmAtJup/neocompass-1.0.jar"
+      ],
+      "fileSize": 8834
     },
     {
       "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
@@ -4656,6 +4671,21 @@
       "fileSize": 1118896
     },
     {
+      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "hashes": {
+        "sha512": "40daf2d7bbccd19d38637adc2d14df1e16685aacd6c00af22d686b547d8df675246170137b7372139d34dcb9ad4c3f8606222bc771a85a335242c760254c99b3",
+        "sha1": "7049cc12935ff4be20173c908ad946f530861a4c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip"
+      ],
+      "fileSize": 321871
+    },
+    {
       "path": "resourcepacks/ATM x MSD [3.1.2].zip",
       "hashes": {
         "sha512": "c09724cb95f08d809f8ed478f06144e4ade2d2fb26dc86b006140a4eb86c1ad24c46927df82e955e0f759e71985a90840ec4d47c7c51af2f4a0a8334c12be854",
@@ -4776,6 +4806,36 @@
       "fileSize": 803304
     },
     {
+      "path": "resourcepacks/FA+All_Extensions-v1.7.zip",
+      "hashes": {
+        "sha512": "4c7e8ead077cf2da3005e23a1928417374be8f27513fe4ec24c49f8eabd0305e3e57cba073228b4f851b7035d491f0f64c37dd28f3a5fb315a5d05c930233a89",
+        "sha1": "115962966e7179f807355f19771e34e9f5eef65f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/hGa4E44T/FA%2BAll_Extensions-v1.7.zip"
+      ],
+      "fileSize": 404107
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.10.3.zip",
+      "hashes": {
+        "sha512": "713dd4e810a59d84844e25fa5fb3e36c83ac2e197d5259e16b61d4b4899f1a3f8bacdd4d4e5d0f5cde9a3497fad5e50ccea0c6270898f53f802e340e3fb3e73f",
+        "sha1": "17d3630f0942e0d0d93f58fc998f780f06b81e63"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/F9QwVhGH/FreshAnimations_v1.10.3.zip"
+      ],
+      "fileSize": 855766
+    },
+    {
       "path": "resourcepacks/Hold My Pokeballs+1.21.1.zip",
       "hashes": {
         "sha512": "0bb58382be49d44723345f00e0d8c73f17cb56af8249c6756124c2d7be9256791ffee4685cdac61a416ef0d6362d2a6c1151cf24b9ad8ffaf2b84f7a04a33d8b",
@@ -4834,6 +4894,21 @@
         "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip"
       ],
       "fileSize": 500699
+    },
+    {
+      "path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
+      "hashes": {
+        "sha512": "1e32f41e67e527c3c60149677a05b61c6d305e440812e29abba745b8ed304954780ca48d58b834c49835790bc3c4d38f37c893c5cbdfea9edc07b72e1dabd296",
+        "sha1": "9689915ec1a7215eb6060be2a08eaf3a09ebdbab"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip"
+      ],
+      "fileSize": 8301317
     }
   ],
   "dependencies": {
